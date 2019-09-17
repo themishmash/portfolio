@@ -1,0 +1,35 @@
+
+footer {
+  position: absolute;
+  left: 1%;
+  bottom: 0;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  width: 98%;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  /* margin-left: 10px; */
+  /* padding-right: 4%; */
+
+}
+
+.footer-link {
+  color: #225165;
+  font-size: 30px;
+  padding: 0px 7px;
+  height: 100%;
+}
+
+.footer-link:hover {
+  color: #C7B198;
+}
+
+.footer-tagline {
+  color: #225165;
+  /* padding-right: 4%; */
+}

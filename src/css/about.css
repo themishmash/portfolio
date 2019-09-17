@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700&display=swap');
+@import "about-nav.css";
+@import "about-footer.css";
+@import "./about-container.css";
+
+body {
+  margin: 0px;
+  font-family: 'Lato', sans-serif;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.2);
+}
+

@@ -1,0 +1,103 @@
+
+
+.container {
+  height: calc(100vh - 10% - 70px);
+  width: 100vw;
+  /* background: dodgerblue; */
+  
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.grid {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+ 
+}
+
+.white  {
+  grid-row: 1 / 5;
+  grid-column: 1 / 6;
+  background: white;
+  border-top: 0.5px solid #C7B198;
+  border-bottom: 0.5px solid #C7B198;
+}
+
+.colour {
+  grid-row: 1 / 5;
+  grid-column: 6 / 11;
+  background: #C3DFE0;
+}
+
+.text {
+  grid-row: 2 / 3;
+  grid-column: 2 / 5;
+}
+
+.photo {
+  grid-row: 2 / 4;
+  grid-column: 5 / 10;
+  background: url(../photos/me-draks-cropped.jpeg);
+  /* background-position: top; */
+  background-size: cover;
+  margin-left: 50px;
+}
+
+.cv {
+  grid-row: 3 / 4;
+  grid-column: 3 / 5; 
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+
+.cv a:hover {
+  background: #225165;
+}
+
+.cv a {
+  text-decoration: none;
+}
+
+.button {
+  background: #C7B198;
+  text-decoration: none;
+  margin: 20px;
+  padding: 8px;
+  border: 1px;
+  border-radius: 25px;
+  color: white;
+}
+
+
+
+
+
+
+
+/* from somewhere else */
+/* 
+.bottom-left {
+  grid-row: 3 / 4; 
+  grid-column: 1 / 2;
+  background: red;
+
+}
+
+.top-right {
+  grid-row: 1/3;
+  grid-column: 2/3;
+  background: yellow;
+}
+
+.bottom-right {
+  grid-row: 3/4;
+  grid-column: 2/2;
+  background: purple;
+} */
+
+/* if want to centre thigns in css - make flexbox */

@@ -1,3 +1,4 @@
+
 nav {
   width: 100vw;
   height: 10%;
@@ -15,11 +16,10 @@ nav {
 
 .navbar-link {
   padding: 5px 20px;
-  color: black;
+  color: #225165;
   text-decoration: none;
 }
 
 nav a:hover {
-  color: #225165;
+  color: #C7B198;
 }
-
