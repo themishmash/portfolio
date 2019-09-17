@@ -2,7 +2,7 @@
 
 body {
   margin: 0px;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../src/photos/Draken-snow-big-landscape.JPG"); alt="snow on Drakensberg";
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../photos/Draken-snow-homepage.JPG"); alt="snow on Drakensberg";
   background-size: cover;
   background-position: top;
 	font-family: 'Lato', sans-serif;
