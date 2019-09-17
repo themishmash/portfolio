@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700&display=swap');
+
+body {
+  margin: 0px;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../photos/Draken-snow-homepage.JPG"); alt="snow on Drakensberg";
+  background-size: cover;
+  background-position: top;
+	font-family: 'Lato', sans-serif;
+}
+
+nav {
+  width: 100vw;
+  height: 70px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: rgba(255, 255, 255, 0.2);
+  
+}
+
+.navbar-links {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-link {
+  padding: 5px 20px;
+  color: black;
+  text-decoration: none;
+}
+/******** up to navbar-links check!!!! ******/
+
+
+
+.hero-text-box {
+  margin: 190px;
+  display: flex;
+  flex-direction: column;
+  width: 30vw;
+  height: 30vh;
+  /* background: yellow; */
+  align-content: center;
+  justify-content: center;
+  align-items: flex-start;
+  color: white;
+  font-size: 20px;
+}
+
+
+
+.button {
+  background: #C7B198;
+  text-decoration: none;
+  margin: 20px;
+  padding: 8px;
+  border: 1px;
+  border-radius: 25px;
+}
+
+/* this makes the links go on one line */
+.hero-button {
+  display: flex;
+}
+
+.hero-button a {
+  color: white;
+}
+
+.hero-button a:hover {
+  background: #225165;
+}
+
+
