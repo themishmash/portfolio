@@ -1,0 +1,28 @@
+footer {
+  position: absolute;
+  left: 1%;
+  bottom: 0;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  margin-left: 10px;
+
+}
+
+.footer-link {
+  color: white;
+  font-size: 30px;
+  padding: 0px 7px;
+  height: 100%;
+}
+
+.footer-link:hover {
+  color: #C7B198;
+}
