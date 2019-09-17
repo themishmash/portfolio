@@ -7,6 +7,7 @@ body {
   margin: 0px;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../photos/Draken-snow-homepage.JPG"); 
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: top;
   font-family: 'Lato', sans-serif;
   height: 100vh;
