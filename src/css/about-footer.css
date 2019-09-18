@@ -1,12 +1,14 @@
 
 footer {
-  position: absolute;
+  position: fixed;
   left: 1%;
   bottom: 0;
   height: 70px;
   display: flex;
   justify-content: space-between;
   width: 98%;
+  border-top: 0.5px solid #C7B198;
+  background: white;
 }
 
 .footer-links {
