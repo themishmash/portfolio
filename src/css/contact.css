@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700&display=swap');
-@import "about-nav.css";
-@import "./portfolio-footer.css";
-@import "./portfolio-cards.css";
+@import "../css/about-footer.css";
+@import "about-footer.css";
 
 body {
   margin: 0px;
@@ -9,13 +8,4 @@ body {
   height: 100vh;
   background-color: rgba(255, 255, 255, 0.2);
 }
-
-.content {
-  /* height: calc(100vh - 10% - 70px); */
-  /* width: 100vw; */
-  /* height: 500px; */
-}
-
-
-
 

@@ -1,12 +1,12 @@
 
 footer {
-  position: inline; 
+  position: fixed; 
   left: 1%;
   bottom: 0;
   height: 70px;
   display: flex;
   justify-content: space-between;
-  width: 98%;
+  width: 100%;
   border-top: 0.5px solid #C7B198;
   background: white;
 }
@@ -33,5 +33,6 @@ footer {
 
 .footer-tagline {
   color: #225165;
+  /* padding-right: 2%; */
   margin-right: 30px;
 } 

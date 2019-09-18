@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700&display=swap');
-@import "about-nav.css";
-@import "about-footer.css";
+@import "./blog-nav.css";
+@import "./blog-footer.css";
+@import "./portfolio-cards.css";
+@import "./blog-cards.css";
 
 body {
   margin: 0px;
@@ -8,3 +10,12 @@ body {
   height: 100vh;
   background-color: rgba(255, 255, 255, 0.2);
 }
+
+h2 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
