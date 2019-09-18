@@ -13,6 +13,7 @@ body {
 h2 {
   text-align: center;
   margin: 30px;
+  padding-left: 90px;
 }
 
 
@@ -68,3 +69,35 @@ label {
   font-weight: bold;
 }
 
+
+
+/* from about container.css */
+
+.send-button {
+  display: flex;
+  justify-content: center;
+}
+
+.submit:hover {
+  background: #225165;
+}
+
+.submit {
+  background: #C7B198;
+  text-decoration: none;
+  margin: 20px;
+  /* padding: 8px; */
+  border: 1px;
+  border-radius: 25px;
+  color: white;
+  width: 70px;
+  height: 40px;
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+  justify-content: center;
+}
+
+value {
+  font-weight: bold;
+}

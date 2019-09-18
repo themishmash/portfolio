@@ -10,3 +10,19 @@ body {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
+
+/* tablet design */
+
+@media only screen and (max-width: 800px) {
+  .card {
+    width: 50%;
+  }
+}
+
+
+/* phone design  */
+@media only screen and (max-width: 500px) {
+  .card {
+    width: 100%;
+  }
+}
