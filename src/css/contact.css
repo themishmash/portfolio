@@ -143,3 +143,10 @@ textarea {
     margin-top: 0px;
   }
 }
+
+@media only screen and (max-width: 320px) {
+  .navbar-link {
+    font-size: 8px;
+    height: 2%;
+  }
+}

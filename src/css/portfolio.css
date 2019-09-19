@@ -27,9 +27,19 @@ body {
   margin-bottom: 100px;
 }
 
-
 .portfolio-container {
   margin-top: 0px;
+}
+}
+
+@media only screen and (max-width: 320px) {
+  .navbar-link {
+    font-size: 8px;
+    height: 2%;
+  }
+
+.bgimg1, .bgimg2, .bgimg3 {
+  background-size: 250px 300px;
 }
 }
 

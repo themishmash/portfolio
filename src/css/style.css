@@ -14,7 +14,6 @@ body {
 }
 
 
-/* really small phone */
 
 
 /* phone design  */
@@ -40,3 +39,20 @@ body {
 
 }
 
+
+/* really small phone */
+@media only screen and (max-width: 320px) {
+  .navbar-link {
+    font-size: 8px;
+    height: 2%;
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+
+  .hero-text-box {
+    left: 8%;
+  }
+
+}
