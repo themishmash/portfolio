@@ -5,7 +5,7 @@
 
 body {
   margin: 0px;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../photos/Draken-snow-homepage.JPG"); 
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../photos/Draken-snow-homepage.JPG"); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
