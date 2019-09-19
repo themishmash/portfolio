@@ -14,13 +14,7 @@ body {
 }
 
 
-/* tablet design */
-
-@media only screen and (max-width: 800px) {
-  .card {
-    width: 50%;
-  }
-}
+/* really small phone */
 
 
 /* phone design  */
