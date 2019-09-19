@@ -14,15 +14,34 @@ body {
 /* tablet design */
 
 @media only screen and (max-width: 800px) {
-  .card {
-    width: 50%;
-  }
+  
 }
 
 
 /* phone design  */
 @media only screen and (max-width: 500px) {
-  .card {
-    width: 100%;
+  .navbar-link {
+    font-size: 12px;
+    height: 2%;
+  }
+
+  .grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .text {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .cv {
+    margin-left: 100px;
+  }
+
+  .photo {
+    display: none;
   }
 }
+
