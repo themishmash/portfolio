@@ -14,4 +14,35 @@ body {
 }
 
 
+/* tablet design */
+
+@media only screen and (max-width: 800px) {
+  .card {
+    width: 50%;
+  }
+}
+
+
+/* phone design  */
+@media only screen and (max-width: 500px) {
+  .navbar-link {
+    font-size: 12px;
+    height: 2%;
+  }
+
+  h1 {
+    font-size: 25px;
+  }
+  .hero-text-box {
+    top: 30%;
+  }
+  .button {
+    margin: 15px;
+    padding: 6px;
+  }
+  .hero-button a {
+    font-size: 15px;
+  }
+
+}
 
