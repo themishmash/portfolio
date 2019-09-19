@@ -43,8 +43,8 @@
 }
 
 .flip-box-back {
-  background-color: #C7B198;
-  color: white;
+  background-color: #C3DFE0;
+  color: #225165;
   transform: rotateY(180deg);
 }
 
@@ -60,7 +60,7 @@ h2 {
 
 p a {
   text-decoration: none;
-  color: #225165;
+  color: #C7B198;
 }
 
 a:hover {
@@ -77,7 +77,7 @@ h4 {
 }
 
 .bgimg1 {
-  background: url('../photos/menu-screenshot.png');
+  background: url('../photos/hikingtermapp.png');
   height: 400px;
   background-size: 380px 350px;
   background-position: center;
@@ -85,7 +85,7 @@ h4 {
 }
 
 .bgimg2 {
-  background: url(../photos/zen-screenshot.png);
+  background: url('../photos/zenwebsite.png');
   height: 400px;
   background-size: 380px 350px;
   background-position: center;
@@ -93,7 +93,7 @@ h4 {
 }
 
 .bgimg3 {
-  background: url('../photos/omni-screenshot.png');
+  background: url(../photos/omnifoodweb.png);
   height: 400px;
   background-size: 380px 350px;
   background-position: center;
