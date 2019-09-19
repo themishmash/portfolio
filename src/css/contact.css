@@ -25,7 +25,7 @@ h2 {
   width: 100%;
   padding: 20px;
   /* border: 1px solid black; */
-  height: 100%;
+  height: calc(100% - 10% - 70px);
   flex-direction: column;
   justify-content: center;
   /* align-items: center; */
@@ -33,6 +33,7 @@ h2 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-attachment: fixed;
 }
 
 .form-container form {
@@ -117,5 +118,28 @@ textarea {
     height: 2%;
   }
 
+  .inputdivs {
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+  }
 
+  h2 {
+    padding-left: 0px;
+    margin: 0px;
+    padding-top: 80px;
+    
+  }
+
+  footer {
+    width: 100%;
+  }
+
+  .form-container{
+    padding: 0px;
+  }
+
+  .form-header {
+    margin-top: 0px;
+  }
 }
