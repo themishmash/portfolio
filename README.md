@@ -40,59 +40,59 @@ This page was made using flex. There are five blog posts, each with images and t
 This page was made using flex and forms. There are three input areas. 
 
 ### Sitemap
-![alt text](./screenshots/sitemap.jpeg)
+![alt text](./docs/sitemap.jpeg)
 
 ### Screenshots of my portfolio website
 
 Home page
 
-![alt text](./screenshots/homepage.png)
+![alt text](./docs/homepage.png)
 
 About me page
 
-![alt text](./screenshots/aboutmepage.png)
+![alt text](./docs/aboutmepage.png)
 
 Portfolio page
 
-![alt text](./screenshots/portfoliopage-buttonsout.png)
+![alt text](./docs/portfoliopage-buttonsout.png)
 
 Blog page
 
-![alt text](./screenshots/blogpage.png)
+![alt text](./docs/blogpage.png)
 
 Contact me page
 
-![alt text](./screenshots/contactpage.png)
+![alt text](./docs/contactpage.png)
 
 ### Screenshots of responsiveness of my portfolio website
 
 Tablet responsive
 
-![alt text](./screenshots/ipadresponsive.png)
+![alt text](./docs/ipadresponsive.png)
 
 Phone responsive
 
-![alt text](./screenshots/phoneresponsive.png)
+![alt text](./docs/phoneresponsive.png)
 
 ### Screenshot of color-change branch
 
-![alt text](./screenshots/colorchange-branch.png)
+![alt text](./docs/colorchange-branch.png)
 
 ### Screenshot of font-change branch
 
-![alt text](./screenshots/fontchange-branch.png)
+![alt text](./docs/fontchange-branch.png)
 
 
 ### Screenshots to show changes made to portfolio page
 Originally the buttons were inside the card like this. 
 
-![alt text](./screenshots/portfoliopage-buttonsinside.png)
+![alt text](./docs/portfoliopage-buttonsinside.png)
 
 However, after I added the animation element to the cards, I thought it looked better to keep them out (see the screenshot above). 
 
 Screenshot of the card flip for the portfolio page
 
-![alt text](./screenshots/portfoliopage-flip.png)
+![alt text](./docs/portfoliopage-flip.png)
 
 
 ### Target audience
