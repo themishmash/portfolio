@@ -29,7 +29,6 @@ This is the landing page. It has a hero text box with buttons linking to the abo
 #### About me page
 This page was made using grid. It has one section with text, background colour and a photo. There is also a button with a link to my CV.
 
-
 #### Portfolio page
 This page was made using flex. It has three cards displaying my work, with button links to respective works. The cards are also animated. 
 
@@ -95,8 +94,9 @@ Screenshot of the card flip for the portfolio page
 ![alt text](./docs/portfoliopage-flip.png)
 
 
-### Screenshots 
+### Screenshot after implementing Subresource Integrity (SRI) in a HTML document
 
+![alt text](./docs/sri-screenshot.png)
 
 ### Target audience
 The target audience for this website are prospective employers looking to hire a developer or IT professional. The employer is expected to have an understanding of information technology, software development, programming languages and programming stacks. The future employer is also expected to be looking for employees with a good work ethic, the ability to work in teams, a real desire for learning (especially as programming languages are constantly evolving) and professionalism.
