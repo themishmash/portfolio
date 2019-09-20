@@ -35,22 +35,23 @@ The purpose of this website is to convey my skills as a developer and my skills 
 My portfolio has five main pages and each page contains a nav bar and footer. The nav bar has links to the other pages in the porfolio (see below for detail on the pages) and the footer contains links to GitHub and LinkedIn.
 
 #### Home page
-This page 
+This is the landing page. It has a hero text box with buttons linking to the about me page and contact me page. It was made using flex. 
 
 #### About me page
+This page was made using grid. It has one section with text, background colour and a photo. There is also a button with a link to my CV.
 
 
 #### Portfolio page
-
+This page was made using flex. It has three cards displaying my work, with button links to respective works. The cards are also animated. 
 
 #### Blog page
-
+This page was made using flex. There are five blog posts, each with images and text.
 
 #### Contact page
-
+This page was made using flex and forms. There are three input areas. 
 
 ### Sitemap
-
+![alt text](./screenshots/sitemap.jpeg)
 
 ### Screenshots of my portfolio website
 
