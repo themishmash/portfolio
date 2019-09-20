@@ -95,6 +95,9 @@ Screenshot of the card flip for the portfolio page
 ![alt text](./docs/portfoliopage-flip.png)
 
 
+### Screenshots 
+
+
 ### Target audience
 The target audience for this website are prospective employers looking to hire a developer or IT professional. The employer is expected to have an understanding of information technology, software development, programming languages and programming stacks. The future employer is also expected to be looking for employees with a good work ethic, the ability to work in teams, a real desire for learning (especially as programming languages are constantly evolving) and professionalism.
 
