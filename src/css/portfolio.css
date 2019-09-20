@@ -34,7 +34,7 @@ body {
 
 @media only screen and (max-width: 380px) {
   .navbar-link {
-    font-size: 8px;
+    font-size: 12px;
     height: 2%;
   }
 
