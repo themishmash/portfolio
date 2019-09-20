@@ -1,17 +1,6 @@
 # Portfolio
 By Michelle Wong
 
-A link (URL) to your published portfolio website
-A link to your GitHub repository (repo)
-Ensure the repo is accessible by your Educators
-Description of your portfolio website, including,
-Purpose
-Functionality / features
-Sitemap
-Screenshots
-Target audience
-Tech stack (e.g. html, css, deployment platform, etc)
-
 This Readme will include the following: 
 * Link to my published portfolio website
 * Link to my GitHub repository
@@ -54,6 +43,56 @@ This page was made using flex and forms. There are three input areas.
 ![alt text](./screenshots/sitemap.jpeg)
 
 ### Screenshots of my portfolio website
+
+Home page
+
+![alt text](./screenshots/homepage.png)
+
+About me page
+
+![alt text](./screenshots/aboutmepage.png)
+
+Portfolio page
+
+![alt text](./screenshots/portfoliopage-buttonsout.png)
+
+Blog page
+
+![alt text](./screenshots/blogpage.png)
+
+Contact me page
+
+![alt text](./screenshots/contactpage.png)
+
+### Screenshots of responsiveness of my portfolio website
+
+Tablet responsive
+
+![alt text](./screenshots/ipadresponsive.png)
+
+Phone responsive
+
+![alt text](./screenshots/phoneresponsive.png)
+
+### Screenshot of color-change branch
+
+![alt text](./screenshots/colorchange-branch.png)
+
+### Screenshot of font-change branch
+
+![alt text](./screenshots/fontchange-branch.png)
+
+
+### Screenshots to show changes made to portfolio page
+Originally the buttons were inside the card like this. 
+
+![alt text](./screenshots/portfoliopage-buttonsinside.png)
+
+However, after I added the animation element to the cards, I thought it looked better to keep them out (see the screenshot above). 
+
+Screenshot of the card flip for the portfolio page
+
+![alt text](./screenshots/portfoliopage-flip.png)
 
 
 ### Target audience
