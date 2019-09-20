@@ -32,6 +32,17 @@ body {
 }
 }
 
+@media only screen and (max-width: 380px) {
+  .navbar-link {
+    font-size: 8px;
+    height: 2%;
+  }
+
+.bgimg1, .bgimg2, .bgimg3 {
+  background-size: 270px 320px;
+}
+}
+
 @media only screen and (max-width: 320px) {
   .navbar-link {
     font-size: 8px;
@@ -39,7 +50,7 @@ body {
   }
 
 .bgimg1, .bgimg2, .bgimg3 {
-  background-size: 200px 250px;
+  background-size: 250px 300px;
 }
 }
 

@@ -40,6 +40,7 @@ body {
 }
 
 
+
 /* really small phone */
 @media only screen and (max-width: 320px) {
   .navbar-link {
