@@ -18,7 +18,7 @@ This Readme will include the following:
 
 ## Description of my portfolio website
 ### Purpose 
-The purpose of this website is to convey my skills as a developer and my skills as a hardworking individual to prospective employers. This online portfolio showcases my strengths, interests, professional knowledge and some projects I have bene working on. 
+The purpose of this website is to convey my skills as a developer and my skills as a hardworking individual to prospective employers. This online portfolio showcases my strengths, interests, professional knowledge and some projects I have been working on. 
 
 I wanted to create a simple, minimalist and elegant design for my website. I used Dribble (see below for more specific examples) to help in this process and coolors. In terms of colours, I wanted something that was mostly neutral and pastel that wouldn’t take away from the content or background images. I found the navy/dark blue, white and tan colours worked really well. 
 
@@ -132,7 +132,10 @@ Originally the buttons were inside the card like this.
 
 ![alt text](./docs/portfoliopage-buttonsinside.png)
 
-However, after I added the animation element to the cards, I thought it looked better to keep them out (see the screenshot above). 
+Initially I thought I would not be able to make any part of my website animated. But after experimenting a bit with CSS, I built up the confidence to give animations a try. I liked the W3 schools' 3D flip image with text [see here](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_flip_image2). I found it to be challenging to recreate this as I had already coded my portfolio cards so it was a bit confusing at first to work out how the divs of W3 Schools lined up with my divs. After tinkering with this for a while, I was chuffed with the result. 
+
+
+After I added the animation element to the cards, I thought it looked better to keep them out (see the screenshot below). 
 
 Screenshot of the card flip for the portfolio page
 
@@ -141,10 +144,12 @@ Screenshot of the card flip for the portfolio page
 
 ### Screenshot after implementing Subresource Integrity (SRI) in a HTML document
 
+I found using Subresource Integrity (SRI) to be challenging, especially to check that it was working without breaking my original code. I had to remember that once I implemented SRI, no changes could be made to the CSS file unless I generated a new SRI code. 
+
 ![alt text](./docs/sri-screenshot.png)
 
 ### Target audience
-The target audience for this website are prospective employers looking to hire a developer or IT professional. The employer is expected to have an understanding of information technology, software development, programming languages and programming stacks. The future employer is also expected to be looking for employees with a good work ethic, the ability to work in teams, a real desire for learning (especially as programming languages are constantly evolving) and professionalism.
+The target audience for this website are prospective employers looking to hire a developer or IT professional. The employer is expected to have an understanding of information technology, software development, programming languages and programming stacks. The future employer is also expected to be looking for employees with a good work ethic, the ability to work in teams, a real desire for learning (especially as programming languages are constantly evolving) and professionalism. 
 
 ### Tech stack
 The tech stack used to develop this website was HTML and CSS. 
