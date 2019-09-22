@@ -158,4 +158,9 @@ The source files were pushed to GitHub.
 
 Netlify was used as the deployment platform to publish my website.
 
+### Other resources
+All photos on the website are owned and taken by me. 
+
+Formspree was used for the contact me page. 
+
 
